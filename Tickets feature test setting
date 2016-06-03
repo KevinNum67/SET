@@ -1,0 +1,9 @@
+	Set SQA Tested %
+	Set Doc impact, release note impact without PEG owner. If no, set “No Impact”
+	Add test plan to test plan field
+	Push PEG/DEV to fill in PRD/FRD field for Feaure/Improvement ticket.
+	Mark label “qav_ccc” or “qav_nightly” or “QAV201512QABX” if passed
+	Mark label “automated” or “part_automated”, if test points are automated, and mark label ”cases_added” if manual cases are added.
+	Mark label “reviewed” if a ticket has been reviewed
+	Quality assessment for F/I.
+	Set proper affect version when report bugs
